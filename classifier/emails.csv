@@ -1,0 +1,7 @@
+subject,body,is_spam
+"\"Win a free iPhone!\",\"Click here to win a brand new iPhone!\",1" 
+"\"Meeting tomorrow\",\"Don't forget about the meeting tomorrow at 10am.\",0" 
+"\"Special offer just for you\",\"Get 50% off your next purchase. Click here!\",1" 
+"\"Project Update\",\"Here is the latest update on the project.\",0" 
+"\"Congratulations! You've won!\",\"Claim your prize by clicking the link below.\",1" 
+"\"Reminder: Doctor's Appointment\",\"This is a reminder for your doctor's appointment on Friday.\",0" 
